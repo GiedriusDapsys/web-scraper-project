@@ -1,0 +1,3 @@
+2025-04-29 15:33:16,852 INFO: Scraping: https://ailena.lt/lt/kartonines-dezes/
+2025-04-29 15:33:20,378 INFO: Total products found: 12
+2025-04-29 15:33:20,380 INFO: Data written to CSV: products_html.csv
